@@ -1,6 +1,6 @@
 <h1 align='center'> Hello World! :raised_hand:</h1>
 <p align='center'>
-I'm Bruno.
+Welcome to my profile Devs, I'm Bruno.
 </p>
 
 <!--

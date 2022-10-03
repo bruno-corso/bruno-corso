@@ -3,7 +3,6 @@
 Welcome to my profile Devs, I'm Bruno.
 </p>
 <br>
-<br>
 <h3 align='center'>Studying 🤔:books::</h3>
 <br>
 <p float="left" align='center'>

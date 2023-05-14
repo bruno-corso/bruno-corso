@@ -2,13 +2,11 @@
 <p align='center'>
 Welcome to my profile Devs, I'm Bruno.
 </p>
-<br>
 <h3 align='center'>Studying 🤔:books::</h3>
-<br>
-<p float="left" align='center'>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=60px heigth=60px/>
-<img width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  </a>
 </p>
 
 #Let's code guys!!

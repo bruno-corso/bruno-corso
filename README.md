@@ -1,27 +1,26 @@
-<h1 align='center'> Hello World! :raised_hand:</h1>
+<h1 align='center'> Hello World! 🗺️</h1>
 <p align='center'>
-Welcome to my profile Devs, I'm Bruno.
+<h3  align='center'>Eu sou o Bruno Corso 👽</h3>
 </p>
-<h3 align='center'>Studying 🤔:books::</h3>
+<h4 align='center'>Estudando para me tornar um Desenvolvedor Front-end...</h4>
+<div align='center' >
+  <img src='https://media1.tenor.com/m/Lj5SFh_tVzkAAAAC/books-read.gif' width='150px' />
+</div>
+<br>
+<p align='center'>
+Skills:
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+    <img width='100px' src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,sass&perline=3" />
   </a>
 </p>
 
-#Let's code guys!!
+Confira meus projetos e entre em contato<br>
+  [Linkedin](https://www.linkedin.com/in/brunocorso/)
 
-<!--
-**bruno-corso/bruno-corso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+

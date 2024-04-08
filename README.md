@@ -42,13 +42,13 @@ Confira meus projetos e entre em contato<br>
 </p>
 
 <p align="left">
-  💌 <strong>Contato:</strong> ⤵️
+  ✉️ <strong>Contato:</strong> ⤵️
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-brunotcorso@gmail.com-FFcccc?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="mailto:bruno@gmail.com?subject=Prazer%20Bruno&body=Ola,%20Bruno..." title="Gmail">
+  <img src="https://img.shields.io/badge/-brunotcorso%40gmail.com-black?style=social&logo=Gmail" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/brunocorso" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/brunocorso" alt="LinkedIn"/></a>
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-@btcorso-DFcccc?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>

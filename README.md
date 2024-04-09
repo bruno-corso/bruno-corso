@@ -26,7 +26,7 @@ Confira meus projetos e entre em contato<br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  <h3>Hello world! Eu sou o Bruno🌎👽🤖</h3> Acho muito satisfatório transformar ideias em realidade, principalmente quando a solução é Web. Fazer a ponte entre os layouts pensados pelo design e o raciocínio lógico dos bastidores no backend é muito satisfatório 🌐🛠️.<br><br> Nos meus projetos utilizo <strong>HTML, CSS e Javascript</strong> além disso, também faço o uso de biblicotecas e frameworks como o <strong>React, Bootsrap, Sass...</strong> 👋🏼🖥️.<br><br>
+  <h3>Hello world! Eu sou o Bruno🌎👽🤖</h3> É empolgante transformar ideias em realidade, principalmente através da Web. Ser a ponte entre os layouts trabalhados pelo design e a lógica dos bastidores no backend é muito satisfatório 🌐🛠️.<br><br> Nos meus projetos utilizo <strong>HTML, CSS e Javascript</strong> além disso, também faço o uso de biblicotecas e frameworks como o <strong>React, Bootsrap, Sass...</strong> 👋🏼🖥️.<br><br>
   Atualmente trabalho no mercado financeiro e estudo as principais ferramentas e liguagens para Desenvolvimento Web.
 </p>
 

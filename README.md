@@ -36,6 +36,7 @@ Confira meus projetos e entre em contato<br>
 <img src="https://img.shields.io/badge/CSS%203-2965f1?logo=CSS3" alt="logo css3"/>
 <img src="https://img.shields.io/badge/Javascript-grey?logo=javascript" alt="logo javacript"/>
 <img src="https://img.shields.io/badge/React-1c2c4c?logo=React" alt="logo React"/>
+<img src="https://img.shields.io/badge/Typescript-00273F?logo=typescript" alt="logo React"/>
 <img src="https://img.shields.io/badge/Bootstrap-fff?logo=bootstrap" alt="logo Bootsrap"/>
 <img src="https://img.shields.io/badge/Sass-ebc2dc?logo=Sass" alt="logo Sass"/>
 <img src="https://img.shields.io/badge/Gulp-cccccc?logo=gulp" alt="logo Gulp"/>
